@@ -1,0 +1,310 @@
+{
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.0.2/src/parser/StudyConfigSchema.json",
+  "studyMetadata": {
+    "title": "A tutorial that you will build with us",
+    "version": "development",
+    "authors": [
+      "The reVISit Team",
+      "The reVISit Community",
+      "You :)"
+    ],
+    "date": "2025-02-05",
+    "description": "This tutorial will teach you how to create a reVISit study and use all of the features that reVISit has to offer.",
+    "organizations": [
+      "University of Utah",
+      "WPI",
+      "University of Toronto",
+      "You :)"
+    ]
+  },
+  "uiConfig": {
+    "contactEmail": "contact@revisit.dev",
+    "helpTextPath": "tutorial/assets/help.md",
+    "logoPath": "revisitAssets/revisitLogoSquare.svg",
+    "withProgressBar": true,
+    "autoDownloadStudy": false,
+    "sidebar": true
+  },
+  "components": {
+    "Welcome":{
+      "type": "markdown",
+      "path": "tutorial-hello-world/assets/welcome.md",
+      "response": []
+    },
+    "Consent":{
+      "type": "markdown",
+      "path": "tutorial-hello-world/assets/consent.md",
+      "response": [
+        {
+          "type": "shortText",
+          "id": "name",
+          "prompt": "Your Signature"
+        }
+      ]
+    },
+    "Tutorial":{
+      "type": "markdown",
+      "nextButtonText": "",
+      "path": "tutorial-hello-world/assets/tutorial.md",
+      "response": []
+    },
+    "Blue 1":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Blue2.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Blue 2":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Blue3.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Blue 3":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Blue4.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Blue 4":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Blue5.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Green 1":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Green2.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Green 2":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Green3.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Green 3":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Green4.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Green 4":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Green5.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Red 1":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Red2.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Red 2":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Red3.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Red 3":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Red4.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "Red 4":{
+      "type": "image",
+      "nextButtonLocation": "sidebar",
+      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "path": "tutorial-hello-world/assets/Red5.png",
+      "response": [
+        {
+          "id": "html-response",
+          "prompt": "Answer:",
+          "location": "sidebar",
+          "type": "numerical",
+          "placeholder": "0-100",
+          "min": 0,
+          "max": 100
+        }
+      ]
+    },
+    "survey": {
+      "type": "markdown",
+      "path": "example-VLAT-mini-randomized/assets/survey.md",
+      "response": [
+        {
+          "id": "surveyExperience",
+          "prompt": "Did you experience any problems with our tool?",
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Enter your answer here."
+        },
+        {
+          "id": "surveyRenderIssues",
+          "prompt": "Did anything not render or display properly?",
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Enter your answer here"
+        },
+        {
+          "id": "surveyOtherIssues",
+          "prompt": "Any other issues or anything you would like to tell us?",
+          "location": "belowStimulus",
+          "type": "longText",
+          "placeholder": "Enter your answer here"
+        }
+      ]
+    }
+  },
+  "sequence": {
+    "order": "fixed",
+    "components": [
+      "Welcome",
+      "Consent",
+      "Tutorial",
+      {
+        "id": "Study Tasks",
+        "order": "random",
+        "components": [
+          "Blue 1", 
+          "Blue 2", 
+          "Blue 3", 
+          "Blue 4", 
+          "Green 1", 
+          "Green 2", 
+          "Green 3", 
+          "Green 4", 
+          "Red 1", 
+          "Red 2", 
+          "Red 3", 
+          "Red 4"
+        ]
+      },
+      "survey"
+    ]
+  }
+}
