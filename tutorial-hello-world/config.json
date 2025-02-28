@@ -1,25 +1,22 @@
 {
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.0.2/src/parser/StudyConfigSchema.json",
   "studyMetadata": {
-    "title": "A tutorial that you will build with us",
+    "title": "A Study on Color Perception",
     "version": "development",
     "authors": [
-      "The reVISit Team",
-      "The reVISit Community",
+      "Data Visualization Group",
       "You :)"
     ],
-    "date": "2025-02-05",
-    "description": "This tutorial will teach you how to create a reVISit study and use all of the features that reVISit has to offer.",
+    "date": "2025-02-28",
+    "description": "This study is used for a graduate data visualization class.",
     "organizations": [
-      "University of Utah",
       "WPI",
-      "University of Toronto",
       "You :)"
     ]
   },
   "uiConfig": {
     "contactEmail": "contact@revisit.dev",
-    "helpTextPath": "tutorial/assets/help.md",
+    "helpTextPath": "color-perception/assets/tutorial.md",
     "logoPath": "revisitAssets/revisitLogoSquare.svg",
     "withProgressBar": true,
     "autoDownloadStudy": false,
@@ -28,31 +25,20 @@
   "components": {
     "Welcome":{
       "type": "markdown",
-      "path": "tutorial-hello-world/assets/welcome.md",
+      "path": "color-perception/assets/welcome.md",
       "response": []
-    },
-    "Consent":{
-      "type": "markdown",
-      "path": "tutorial-hello-world/assets/consent.md",
-      "response": [
-        {
-          "type": "shortText",
-          "id": "name",
-          "prompt": "Your Signature"
-        }
-      ]
     },
     "Tutorial":{
       "type": "markdown",
       "nextButtonText": "",
-      "path": "tutorial-hello-world/assets/tutorial.md",
+      "path": "color-perception/assets/tutorial.md",
       "response": []
     },
     "Blue 1":{
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Blue2.png",
+      "path": "color-perception/assets/Blue2.png",
       "response": [
         {
           "id": "html-response",
@@ -69,7 +55,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Blue3.png",
+      "path": "color-perception/assets/Blue3.png",
       "response": [
         {
           "id": "html-response",
@@ -86,7 +72,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Blue4.png",
+      "path": "color-perception/assets/Blue4.png",
       "response": [
         {
           "id": "html-response",
@@ -103,7 +89,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Blue5.png",
+      "path": "color-perception/assets/Blue5.png",
       "response": [
         {
           "id": "html-response",
@@ -120,7 +106,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Green2.png",
+      "path": "color-perception/assets/Green2.png",
       "response": [
         {
           "id": "html-response",
@@ -137,7 +123,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Green3.png",
+      "path": "color-perception/assets/Green3.png",
       "response": [
         {
           "id": "html-response",
@@ -154,7 +140,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Green4.png",
+      "path": "color-perception/assets/Green4.png",
       "response": [
         {
           "id": "html-response",
@@ -171,7 +157,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Green5.png",
+      "path": "color-perception/assets/Green5.png",
       "response": [
         {
           "id": "html-response",
@@ -188,7 +174,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Red2.png",
+      "path": "color-perception/assets/Red2.png",
       "response": [
         {
           "id": "html-response",
@@ -205,7 +191,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Red3.png",
+      "path": "color-perception/assets/Red3.png",
       "response": [
         {
           "id": "html-response",
@@ -222,7 +208,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Red4.png",
+      "path": "color-perception/assets/Red4.png",
       "response": [
         {
           "id": "html-response",
@@ -239,7 +225,7 @@
       "type": "image",
       "nextButtonLocation": "sidebar",
       "instruction": "What is the difference in shade of the two dots marked with black?",
-      "path": "tutorial-hello-world/assets/Red5.png",
+      "path": "color-perception/assets/Red5.png",
       "response": [
         {
           "id": "html-response",
@@ -284,7 +270,6 @@
     "order": "fixed",
     "components": [
       "Welcome",
-      "Consent",
       "Tutorial",
       {
         "id": "Study Tasks",
