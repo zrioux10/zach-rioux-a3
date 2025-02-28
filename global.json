@@ -1,11 +1,11 @@
 {
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.0.2/src/parser/GlobalConfigSchema.json",
   "configsList": [
-    "tutorial-hello-world"
+    "color-perception"
   ],
   "configs": {
-    "tutorial-hello-world": {
-      "path": "tutorial-hello-world/config.json"
+    "color-perception": {
+      "path": "color-perception/config.json"
     }
   }
 }
