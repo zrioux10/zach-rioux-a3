@@ -1,3 +1,3 @@
 ## Help
 
-This is a help page.
+This is our help page.
