@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Heatmap Generator</title>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        #chart-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        #result {
+            margin-top: 10px;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <svg id="chart" width="500" height="300"></svg>
+    <div id="result"></div>
+
+    <script>
+        const svgWidth = 500;
+        const svgHeight = 300;
+        const svg = d3.select("#chart");
+
+        // Define the color scheme (Change this for different color schemes)
+        const selectedScheme = "blues"; // Change to "greens" or "blues" as needed
+        const colorScheme = selectedScheme === "reds" ? d3.interpolateReds :
+                            selectedScheme === "greens" ? d3.interpolateGreens :
+                            d3.interpolateBlues;
+
+        const colorScale = d3.scaleSequential()
+            .domain([0, 100])
+            .interpolator(colorScheme);
+
+        // Generate 5 random data points with random x, y positions and a value
+        const data = d3.range(5).map((d, i) => {
+            return {
+                id: i,
+                value: Math.floor(Math.random() * 100) + 1, // Value between 1 and 100
+                x: Math.random() * (svgWidth - 20) + 10,
+                y: Math.random() * (svgHeight - 20) + 10
+            };
+        });
+
+        // Draw circles for each data point
+        svg.selectAll("circle.data")
+            .data(data)
+            .enter()
+            .append("circle")
+            .attr("class", "data")
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y)
+            .attr("r", 15)
+            .attr("fill", d => colorScale(d.value))
+            .attr("stroke", "black")
+            .attr("stroke-width", 1);
+
+        // Randomly select two distinct points
+        let indices = d3.shuffle([...Array(data.length).keys()]);
+        let pointA = data[indices[0]];
+        let pointB = data[indices[1]];
+
+        // Determine larger and smaller point
+        let largerPoint = pointA.value > pointB.value ? pointA : pointB;
+        let smallerPoint = pointA.value > pointB.value ? pointB : pointA;
+
+        // Calculate the percentage difference between the two points
+        const percentage = Math.round((smallerPoint.value / largerPoint.value) * 100);
+
+        // Mark the selected points
+        svg.append("circle")
+            .attr("class", "marker larger")
+            .attr("cx", largerPoint.x)
+            .attr("cy", largerPoint.y)
+            .attr("r", 5)
+            .attr("fill", "black");
+
+        svg.append("circle")
+            .attr("class", "marker smaller")
+            .attr("cx", smallerPoint.x)
+            .attr("cy", smallerPoint.y)
+            .attr("r", 5)
+            .attr("fill", "black");
+
+        // Display the actual answer on the side
+        d3.select("#result").html(`
+            <strong>Color Scheme:</strong> ${selectedScheme.charAt(0).toUpperCase() + selectedScheme.slice(1)}<br>
+            <strong>Actual Answer:</strong> ${percentage}%<br>
+            (Smaller value: ${smallerPoint.value} vs Larger value: ${largerPoint.value})
+        `);
+    </script>
+</body>
+</html>
