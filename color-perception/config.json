@@ -37,7 +37,7 @@
     "Blue 1":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Blue2.png",
       "response": [
         {
@@ -54,7 +54,7 @@
     "Blue 2":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Blue3.png",
       "response": [
         {
@@ -71,7 +71,7 @@
     "Blue 3":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Blue4.png",
       "response": [
         {
@@ -88,7 +88,7 @@
     "Blue 4":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Blue5.png",
       "response": [
         {
@@ -105,7 +105,7 @@
     "Green 1":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Green2.png",
       "response": [
         {
@@ -122,7 +122,7 @@
     "Green 2":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Green3.png",
       "response": [
         {
@@ -139,7 +139,7 @@
     "Green 3":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Green4.png",
       "response": [
         {
@@ -156,7 +156,7 @@
     "Green 4":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Green5.png",
       "response": [
         {
@@ -173,7 +173,7 @@
     "Red 1":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Red2.png",
       "response": [
         {
@@ -190,7 +190,7 @@
     "Red 2":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Red3.png",
       "response": [
         {
@@ -207,7 +207,7 @@
     "Red 3":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Red4.png",
       "response": [
         {
@@ -224,7 +224,7 @@
     "Red 4":{
       "type": "image",
       "nextButtonLocation": "sidebar",
-      "instruction": "What is the difference in shade of the two dots marked with black?",
+      "instruction": "What percentage is the lighter value relative to the darker one?",
       "path": "color-perception/assets/Red5.png",
       "response": [
         {
