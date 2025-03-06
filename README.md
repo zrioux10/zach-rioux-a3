@@ -26,6 +26,7 @@ Main branch
 | Run release workflow on merge
 References are updated and commit is tagged
 
+## Assignment Details
 
 Link to the study: https://zrioux10.github.io/zach-rioux-a3/?tab=Others 
 
