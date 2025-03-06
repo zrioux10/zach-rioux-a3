@@ -1,8 +1,8 @@
-# reVISit study – Interactive, Web-Based User Studies.  
+//link here
 
-Create your own interactive, web-based data visualization user studies by cloning/forking and editing configuration files and adding stimuli in the `public` folder. 
+This experiment tests if the color of a heatmap affects people's ability to comprehend data. For this experiment, we developed a program that automatically generates various dots of a certain color with different temperatures. Two dots would have a black dot in the middle, and the users would be asked to guess the percentage of the lighter color relative to the darker one. We hope this will allow us to see which color produced the most accuracy, thus showing the ideal color for a heat map.
 
-reVISit introduces reVISit.spec a DSL for specifying study setups (consent forms, training, trials, etc) for interactive web based studies. You describe your experimental setup in reVISit.spec, add your stimuli as images, forms, html pages, or React components, build and deploy – and you're ready to run your study. For tutorials and documentation, see the [reVISit website](https://revisit.dev). 
+//place figures in order from most accurate to least accurate, then any other charts you have
 
 ## Build Instructions
 
@@ -43,3 +43,7 @@ Design Achievements:
 Technical Achievements:
 - Heatmap coloring for questions
 - Color on results graph is mapped to the question it came from
+=======
+Design achheivements:
+Technical achievements:
+Created a script that automatically generates random heatmaps for the experiment instead of hard coding them.
