@@ -59,3 +59,19 @@ plt.xticks(rotation=45)
 plt.ylabel("Mean Log2 Error")
 plt.title("Visualization Performance")
 plt.show() 
+
+plt.figure()  
+
+performance_order = df_mean_error.sort_values('mean_error').index.tolist()
+
+df_responses['trialId_by_performance'] = pd.Categorical(df_responses['trialId'], categories=performance_order, ordered=True)
+
+sns.barplot(
+    data=df_responses, x='trialId_by_performance', y='error', estimator=np.mean, 
+    errorbar=('ci'), capsize=0.25, palette=custom_palette, hue='trialId_by_performance'
+)
+
+plt.xticks(rotation=45)
+plt.ylabel("Mean Log2 Error")
+plt.title("Visualization Performance")
+plt.show()
