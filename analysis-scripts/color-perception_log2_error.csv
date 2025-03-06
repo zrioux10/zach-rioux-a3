@@ -1,0 +1,271 @@
+participantId,trialId,trialOrder,responseId,status,percentComplete,instruction,responsePrompt,answer,correct_answer,error,mean_error
+080a29f9-a401-4597-af0c-4bd077803ee6,Blue 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,44,46,1.0874628412503393,3.3691938791392646
+080a29f9-a401-4597-af0c-4bd077803ee6,Blue 2,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,13,5,3.0223678130284544,4.132400092125464
+080a29f9-a401-4597-af0c-4bd077803ee6,Blue 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,55,67,3.599912842187128,4.152744234570052
+080a29f9-a401-4597-af0c-4bd077803ee6,Blue 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,31,41,3.3398500028846247,3.4032881201403895
+080a29f9-a401-4597-af0c-4bd077803ee6,Green 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,11,12,0.16992500144231237,4.079713725937726
+080a29f9-a401-4597-af0c-4bd077803ee6,Green 2,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,57,42,3.9188632372745946,3.466562667370662
+080a29f9-a401-4597-af0c-4bd077803ee6,Green 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,9,25,4.011227255423254,4.454508118030326
+080a29f9-a401-4597-af0c-4bd077803ee6,Green 4,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,31,2.0443941193584534,3.207433672212154
+080a29f9-a401-4597-af0c-4bd077803ee6,Red 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,28,31,1.6438561897747246,3.728495003107183
+080a29f9-a401-4597-af0c-4bd077803ee6,Red 2,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,68,47,4.400879436282184,3.516033896357667
+080a29f9-a401-4597-af0c-4bd077803ee6,Red 3,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,44,4.257387842692652,3.5157113011573813
+080a29f9-a401-4597-af0c-4bd077803ee6,Red 4,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,24,25,0.16992500144231237,3.380873320374649
+08561dda-a96d-4a38-aabb-a00d4ff55819,Blue 1,4.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,40,46,2.6147098441152083,3.3691938791392646
+08561dda-a96d-4a38-aabb-a00d4ff55819,Blue 2,3.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,85,5,6.324180546618741,4.132400092125464
+08561dda-a96d-4a38-aabb-a00d4ff55819,Blue 3,8.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,30,67,5.2143191208007655,4.152744234570052
+08561dda-a96d-4a38-aabb-a00d4ff55819,Blue 4,9.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,50,41,3.189824558880017,3.4032881201403895
+08561dda-a96d-4a38-aabb-a00d4ff55819,Green 1,7.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,95,12,6.377210530388552,4.079713725937726
+08561dda-a96d-4a38-aabb-a00d4ff55819,Green 2,6.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,50,42,3.0223678130284544,3.466562667370662
+08561dda-a96d-4a38-aabb-a00d4ff55819,Green 3,2.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,60,25,5.134426320220926,4.454508118030326
+08561dda-a96d-4a38-aabb-a00d4ff55819,Green 4,5.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,45,31,3.820178962415188,3.207433672212154
+08561dda-a96d-4a38-aabb-a00d4ff55819,Red 1,10.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,30,31,0.16992500144231237,3.728495003107183
+08561dda-a96d-4a38-aabb-a00d4ff55819,Red 2,12.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,25,47,4.467605550082998,3.516033896357667
+08561dda-a96d-4a38-aabb-a00d4ff55819,Red 3,13.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,65,44,4.400879436282184,3.5157113011573813
+08561dda-a96d-4a38-aabb-a00d4ff55819,Red 4,11.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,40,25,3.9188632372745946,3.380873320374649
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Blue 1,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,46,2.6147098441152083,3.3691938791392646
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Blue 2,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,11,5,2.6147098441152083,4.132400092125464
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Blue 3,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,65,67,1.0874628412503393,4.152744234570052
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Blue 4,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,41,2.6147098441152083,3.4032881201403895
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Green 1,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,10,12,1.0874628412503393,4.079713725937726
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Green 2,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,33,42,3.189824558880017,3.466562667370662
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Green 3,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,23,25,1.0874628412503393,4.454508118030326
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Green 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,31,4.257387842692652,3.207433672212154
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Red 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,27,31,2.0443941193584534,3.728495003107183
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Red 2,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,48,47,0.16992500144231237,3.516033896357667
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Red 3,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,69,44,4.651051691178929,3.5157113011573813
+0a32c6bf-3243-4114-a58f-906f70ffaf24,Red 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,25,0.0,3.380873320374649
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Blue 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,46,5.092757140919852,3.3691938791392646
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Blue 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,95,5,6.493855449240822,4.132400092125464
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Blue 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,67,5.2143191208007655,4.152744234570052
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Blue 4,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,41,3.189824558880017,3.4032881201403895
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Green 1,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,85,12,6.1922928144707665,4.079713725937726
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Green 2,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,42,4.098032082960526,3.466562667370662
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Green 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,75,25,5.647458426454921,4.454508118030326
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Green 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,31,0.16992500144231237,3.207433672212154
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Red 1,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,31,4.864186144654281,3.728495003107183
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Red 2,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,45,47,1.0874628412503393,3.516033896357667
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Red 3,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,45,44,0.16992500144231237,3.5157113011573813
+0bf02de6-c17f-4a11-b3b7-13d1485359a1,Red 4,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,72,25,5.5584207132686645,3.380873320374649
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Blue 1,8.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,34,46,3.599912842187128,3.3691938791392646
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Blue 2,9.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,10,5,2.357552004618084,4.132400092125464
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Blue 3,13.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,64,67,1.6438561897747246,4.152744234570052
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Blue 4,10.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,67,41,4.7073591320808825,3.4032881201403895
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Green 1,6.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,5,12,2.8328900141647417,4.079713725937726
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Green 2,7.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,56,42,3.820178962415188,3.466562667370662
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Green 3,12.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,84,25,5.885696373339395,4.454508118030326
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Green 4,11.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,72,31,5.361943773735241,3.207433672212154
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Red 1,5.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,12,31,4.257387842692652,3.728495003107183
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Red 3,2.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,25,44,4.257387842692652,3.5157113011573813
+17caec07-5cf0-4cfa-ab85-035b3f21be52,Red 4,3.0,html-response,completed,86.67,What percentage is the lighter value relative to the darker one?,Answer:,58,25,5.049848549450561,3.380873320374649
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Blue 1,4.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,80,46,5.092757140919852,3.3691938791392646
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Blue 2,3.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,5,5,0.0,4.132400092125464
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Blue 3,2.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,50,67,4.098032082960526,4.152744234570052
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Blue 4,6.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,80,41,5.290018846932618,3.4032881201403895
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Green 1,7.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,100,12,6.461479447286156,4.079713725937726
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Green 2,9.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,50,42,3.0223678130284544,3.466562667370662
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Green 3,8.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,95,25,6.1318569606087925,4.454508118030326
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Green 4,5.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,40,31,3.189824558880017,3.207433672212154
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Red 1,12.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,60,31,4.864186144654281,3.728495003107183
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Red 2,11.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,60,47,3.7142455176661224,3.516033896357667
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Red 3,10.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,40,44,2.0443941193584534,3.5157113011573813
+1ab60cbb-c9b8-49ab-aff0-713e76001a53,Red 4,13.0,html-response,completed,100.00,What is the difference in shade of the two dots marked with black?,Answer:,35,25,3.3398500028846247,3.380873320374649
+1faf4481-95a9-49d5-9b07-54879d9a2139,Blue 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,46,3.4757334309663976,3.3691938791392646
+1faf4481-95a9-49d5-9b07-54879d9a2139,Blue 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,5,5.7846348455575205,4.132400092125464
+1faf4481-95a9-49d5-9b07-54879d9a2139,Blue 3,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,67,5.5584207132686645,4.152744234570052
+1faf4481-95a9-49d5-9b07-54879d9a2139,Blue 4,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,41,3.4757334309663976,3.4032881201403895
+1faf4481-95a9-49d5-9b07-54879d9a2139,Green 1,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,12,5.861086905995394,4.079713725937726
+1faf4481-95a9-49d5-9b07-54879d9a2139,Green 2,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,42,1.0874628412503393,3.466562667370662
+1faf4481-95a9-49d5-9b07-54879d9a2139,Green 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,65,25,5.3264294871223035,4.454508118030326
+1faf4481-95a9-49d5-9b07-54879d9a2139,Green 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,31,4.864186144654281,3.207433672212154
+1faf4481-95a9-49d5-9b07-54879d9a2139,Red 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,31,3.189824558880017,3.728495003107183
+1faf4481-95a9-49d5-9b07-54879d9a2139,Red 2,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,47,3.599912842187128,3.516033896357667
+1faf4481-95a9-49d5-9b07-54879d9a2139,Red 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,15,44,4.864186144654281,3.5157113011573813
+1faf4481-95a9-49d5-9b07-54879d9a2139,Red 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,25,0.0,3.380873320374649
+2c579d95-ef53-44bf-91bc-d76059b78665,Red 1,3.0,html-response,in progress,26.67,What percentage is the lighter value relative to the darker one?,Answer:,50,31,4.257387842692652,3.728495003107183
+2c579d95-ef53-44bf-91bc-d76059b78665,Red 3,2.0,html-response,in progress,26.67,What percentage is the lighter value relative to the darker one?,Answer:,50,44,2.6147098441152083,3.5157113011573813
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Blue 1,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,46,3.820178962415188,3.3691938791392646
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Blue 2,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,5,5.134426320220926,4.132400092125464
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Blue 3,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,67,5.5584207132686645,4.152744234570052
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Blue 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,41,0.16992500144231237,3.4032881201403895
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Green 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,12,4.813781191217037,4.079713725937726
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Green 2,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,42,5.252665432450248,3.466562667370662
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Green 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,25,3.9188632372745946,4.454508118030326
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Green 4,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,31,3.4757334309663976,3.207433672212154
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Red 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,31,3.189824558880017,3.728495003107183
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Red 2,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,47,5.049848549450561,3.516033896357667
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Red 3,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,44,4.011227255423254,3.5157113011573813
+32f4cf04-e765-41bd-8fbf-57e13ef49847,Red 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,25,5.134426320220926,3.380873320374649
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Blue 1,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,43,46,1.6438561897747246,3.3691938791392646
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Blue 2,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,73,5,6.090112419664289,4.132400092125464
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Blue 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,8,67,5.885696373339395,4.152744234570052
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Blue 4,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,31,41,3.3398500028846247,3.4032881201403895
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Green 1,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,71,12,5.885696373339395,4.079713725937726
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Green 2,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,17,42,4.651051691178929,3.466562667370662
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Green 3,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,64,25,5.290018846932618,4.454508118030326
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Green 4,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,29,31,1.0874628412503393,3.207433672212154
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Red 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,52,31,4.400879436282184,3.728495003107183
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Red 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,17,47,4.912889336229962,3.516033896357667
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Red 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,16,44,4.813781191217037,3.5157113011573813
+35ca7b7f-2531-4034-8110-5c5bfbb5c95e,Red 4,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,29,25,2.0443941193584534,3.380873320374649
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Blue 1,3.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,20,46,4.7073591320808825,3.3691938791392646
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Blue 2,2.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,80,5,6.231221180711185,4.132400092125464
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Blue 3,4.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,10,67,5.836050355058069,4.152744234570052
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Blue 4,5.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,30,41,3.4757334309663976,3.4032881201403895
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Green 1,9.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,70,12,5.861086905995394,4.079713725937726
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Green 2,6.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,20,42,4.467605550082998,3.466562667370662
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Green 3,7.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,50,25,4.651051691178929,4.454508118030326
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Green 4,8.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,20,31,3.4757334309663976,3.207433672212154
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Red 1,10.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,70,31,5.290018846932618,3.728495003107183
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Red 2,12.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,40,47,2.8328900141647417,3.516033896357667
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Red 3,13.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,20,44,4.592457037268081,3.5157113011573813
+652a7461-3328-4bed-bf46-f8a94ec3ee30,Red 4,11.0,html-response,completed,93.33,What percentage is the lighter value relative to the darker one?,Answer:,20,25,2.357552004618084,3.380873320374649
+6d84917b-8286-4707-888d-f73f81b18c66,Blue 1,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,55,46,3.189824558880017,3.3691938791392646
+6d84917b-8286-4707-888d-f73f81b18c66,Blue 2,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,5,5,0.0,4.132400092125464
+6d84917b-8286-4707-888d-f73f81b18c66,Blue 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,67,4.098032082960526,4.152744234570052
+6d84917b-8286-4707-888d-f73f81b18c66,Blue 4,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,41,4.400879436282184,3.4032881201403895
+6d84917b-8286-4707-888d-f73f81b18c66,Green 1,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,12,3.0223678130284544,4.079713725937726
+6d84917b-8286-4707-888d-f73f81b18c66,Green 2,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,42,4.1799090900149345,3.466562667370662
+6d84917b-8286-4707-888d-f73f81b18c66,Green 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,25,2.357552004618084,4.454508118030326
+6d84917b-8286-4707-888d-f73f81b18c66,Green 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,31,2.6147098441152083,3.207433672212154
+6d84917b-8286-4707-888d-f73f81b18c66,Red 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,10,31,4.400879436282184,3.728495003107183
+6d84917b-8286-4707-888d-f73f81b18c66,Red 2,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,47,2.8328900141647417,3.516033896357667
+6d84917b-8286-4707-888d-f73f81b18c66,Red 3,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,44,4.592457037268081,3.5157113011573813
+6d84917b-8286-4707-888d-f73f81b18c66,Red 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,25,2.357552004618084,3.380873320374649
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Blue 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,90,46,5.463524373271181,3.3691938791392646
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Blue 2,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,5,6.231221180711185,4.132400092125464
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Blue 3,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,67,5.5584207132686645,4.152744234570052
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Blue 4,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,41,2.6147098441152083,3.4032881201403895
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Green 1,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,55,12,5.430452551665532,4.079713725937726
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Green 2,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,75,42,5.049848549450561,3.466562667370662
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Green 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,85,25,5.909893083770042,4.454508118030326
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Green 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,31,2.6147098441152083,3.207433672212154
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Red 1,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,45,31,3.820178962415188,3.728495003107183
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Red 2,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,65,47,4.1799090900149345,3.516033896357667
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Red 3,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,45,44,0.16992500144231237,3.5157113011573813
+6fd2223c-ed3f-4cf6-9501-c6685cf52035,Red 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,25,5.7846348455575205,3.380873320374649
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Blue 1,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,55,46,3.189824558880017,3.3691938791392646
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Blue 2,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,95,5,6.493855449240822,4.132400092125464
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Blue 3,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,15,67,5.703903573444664,4.152744234570052
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Blue 4,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,75,41,5.092757140919852,3.4032881201403895
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Green 1,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,97,12,6.411510988012071,4.079713725937726
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Green 2,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,42,3.0223678130284544,3.466562667370662
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Green 3,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,90,25,6.025139562278508,4.454508118030326
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Green 4,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,65,31,5.092757140919852,3.207433672212154
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Red 1,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,31,5.618385502258606,3.728495003107183
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Red 2,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,47,1.6438561897747246,3.516033896357667
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Red 3,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,44,2.6147098441152083,3.5157113011573813
+7f4eb117-892d-434e-ba09-e0ce37e4181d,Red 4,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,65,25,5.3264294871223035,3.380873320374649
+8eabd488-3d10-4333-a58f-01930ef54359,Blue 1,2.0,html-response,completed,53.33,What percentage is the lighter value relative to the darker one?,Answer:,60,46,3.820178962415188,3.3691938791392646
+8eabd488-3d10-4333-a58f-01930ef54359,Blue 3,5.0,html-response,completed,53.33,What percentage is the lighter value relative to the darker one?,Answer:,67,67,0.0,4.152744234570052
+8eabd488-3d10-4333-a58f-01930ef54359,Green 2,6.0,html-response,completed,53.33,What percentage is the lighter value relative to the darker one?,Answer:,52,42,3.3398500028846247,3.466562667370662
+8eabd488-3d10-4333-a58f-01930ef54359,Green 3,4.0,html-response,completed,53.33,What percentage is the lighter value relative to the darker one?,Answer:,33,25,3.0223678130284544,4.454508118030326
+8eabd488-3d10-4333-a58f-01930ef54359,Green 4,3.0,html-response,completed,53.33,What percentage is the lighter value relative to the darker one?,Answer:,48,31,4.098032082960526,3.207433672212154
+92df58e9-4a50-4955-ba6b-56f4ec550245,Blue 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,46,2.0443941193584534,3.3691938791392646
+92df58e9-4a50-4955-ba6b-56f4ec550245,Blue 2,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,5,5,0.0,4.132400092125464
+92df58e9-4a50-4955-ba6b-56f4ec550245,Blue 3,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,67,2.8328900141647417,4.152744234570052
+92df58e9-4a50-4955-ba6b-56f4ec550245,Blue 4,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,15,41,4.7073591320808825,3.4032881201403895
+92df58e9-4a50-4955-ba6b-56f4ec550245,Green 1,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,5,12,2.8328900141647417,4.079713725937726
+92df58e9-4a50-4955-ba6b-56f4ec550245,Green 2,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,42,3.0223678130284544,3.466562667370662
+92df58e9-4a50-4955-ba6b-56f4ec550245,Green 3,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,10,25,3.9188632372745946,4.454508118030326
+92df58e9-4a50-4955-ba6b-56f4ec550245,Green 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,31,3.189824558880017,3.207433672212154
+92df58e9-4a50-4955-ba6b-56f4ec550245,Red 1,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,31,2.0443941193584534,3.728495003107183
+92df58e9-4a50-4955-ba6b-56f4ec550245,Red 2,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,47,3.7142455176661224,3.516033896357667
+92df58e9-4a50-4955-ba6b-56f4ec550245,Red 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,44,2.6147098441152083,3.5157113011573813
+92df58e9-4a50-4955-ba6b-56f4ec550245,Red 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,25,2.357552004618084,3.380873320374649
+9b45a09f-e286-4f27-9431-f066fdfe151b,Blue 1,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,54,46,3.0223678130284544,3.3691938791392646
+9b45a09f-e286-4f27-9431-f066fdfe151b,Blue 2,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,8,5,1.6438561897747246,4.132400092125464
+9b45a09f-e286-4f27-9431-f066fdfe151b,Blue 3,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,63,67,2.0443941193584534,4.152744234570052
+9b45a09f-e286-4f27-9431-f066fdfe151b,Blue 4,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,33,41,3.0223678130284544,3.4032881201403895
+9b45a09f-e286-4f27-9431-f066fdfe151b,Green 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,14,12,1.0874628412503393,4.079713725937726
+9b45a09f-e286-4f27-9431-f066fdfe151b,Green 2,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,51,42,3.189824558880017,3.466562667370662
+9b45a09f-e286-4f27-9431-f066fdfe151b,Green 3,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,11,25,3.820178962415188,4.454508118030326
+9b45a09f-e286-4f27-9431-f066fdfe151b,Green 4,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,29,31,1.0874628412503393,3.207433672212154
+9b45a09f-e286-4f27-9431-f066fdfe151b,Red 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,22,31,3.189824558880017,3.728495003107183
+9b45a09f-e286-4f27-9431-f066fdfe151b,Red 2,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,47,2.8328900141647417,3.516033896357667
+9b45a09f-e286-4f27-9431-f066fdfe151b,Red 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,31,44,3.7142455176661224,3.5157113011573813
+9b45a09f-e286-4f27-9431-f066fdfe151b,Red 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,16,25,3.189824558880017,3.380873320374649
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Blue 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,41,46,2.357552004618084,3.3691938791392646
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Blue 2,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,12,5,2.8328900141647417,4.132400092125464
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Blue 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,67,2.8328900141647417,4.152744234570052
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Blue 4,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,41,4.011227255423254,3.4032881201403895
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Green 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,12,3.0223678130284544,4.079713725937726
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Green 2,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,42,5.252665432450248,3.466562667370662
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Green 3,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,29,25,2.0443941193584534,4.454508118030326
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Green 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,18,31,3.7142455176661224,3.207433672212154
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Red 1,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,31,3.4757334309663976,3.728495003107183
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Red 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,34,47,3.7142455176661224,3.516033896357667
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Red 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,29,44,3.9188632372745946,3.5157113011573813
+aab7e9a7-8a6e-42ca-8908-36c634a7c25c,Red 4,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,12,25,3.7142455176661224,3.380873320374649
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Blue 1,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,46,2.6147098441152083,3.3691938791392646
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Blue 2,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,5,5.7846348455575205,4.132400092125464
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Blue 3,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,67,5.005624549193878,4.152744234570052
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Blue 4,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,41,3.189824558880017,3.4032881201403895
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Green 1,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,12,5.861086905995394,4.079713725937726
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Green 2,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,42,4.467605550082998,3.466562667370662
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Green 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,25,5.134426320220926,4.454508118030326
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Green 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,31,3.4757334309663976,3.207433672212154
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Red 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,31,4.257387842692652,3.728495003107183
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Red 2,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,47,4.467605550082998,3.516033896357667
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Red 3,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,44,4.257387842692652,3.5157113011573813
+b898133d-2593-4c5f-bcd1-dcebbd6f7b26,Red 4,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,25,2.357552004618084,3.380873320374649
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Blue 1,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,24,46,4.467605550082998,3.3691938791392646
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Blue 2,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,10,5,2.357552004618084,4.132400092125464
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Blue 3,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,55,67,3.599912842187128,4.152744234570052
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Blue 4,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,32,41,3.189824558880017,3.4032881201403895
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Green 1,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,15,12,1.6438561897747246,4.079713725937726
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Green 2,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,44,42,1.0874628412503393,3.466562667370662
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Green 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,14,25,3.4757334309663976,4.454508118030326
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Green 4,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,15,31,4.011227255423254,3.207433672212154
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Red 1,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,24,31,2.8328900141647417,3.728495003107183
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Red 2,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,39,47,3.0223678130284544,3.516033896357667
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Red 3,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,22,44,4.467605550082998,3.5157113011573813
+bc90bc21-fc8f-4dd2-9ee8-e36b5f9f7a6e,Red 4,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,12,25,3.7142455176661224,3.380873320374649
+be43f335-608e-4663-bea9-28163d945340,Blue 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,46,5.092757140919852,3.3691938791392646
+be43f335-608e-4663-bea9-28163d945340,Blue 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,5,5.134426320220926,4.132400092125464
+be43f335-608e-4663-bea9-28163d945340,Blue 3,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,67,5.005624549193878,4.152744234570052
+be43f335-608e-4663-bea9-28163d945340,Blue 4,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,41,4.400879436282184,3.4032881201403895
+be43f335-608e-4663-bea9-28163d945340,Green 1,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,12,3.0223678130284544,4.079713725937726
+be43f335-608e-4663-bea9-28163d945340,Green 2,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,42,1.0874628412503393,3.466562667370662
+be43f335-608e-4663-bea9-28163d945340,Green 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,25,5.134426320220926,4.454508118030326
+be43f335-608e-4663-bea9-28163d945340,Green 4,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,31,3.4757334309663976,3.207433672212154
+be43f335-608e-4663-bea9-28163d945340,Red 1,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,67,31,5.174925682500679,3.728495003107183
+be43f335-608e-4663-bea9-28163d945340,Red 2,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,67,47,4.330916878114617,3.516033896357667
+be43f335-608e-4663-bea9-28163d945340,Red 3,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,66,44,4.467605550082998,3.5157113011573813
+be43f335-608e-4663-bea9-28163d945340,Red 4,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,66,25,5.361943773735241,3.380873320374649
+cafce016-6a79-4ce9-948b-caeeae4e0949,Blue 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,46,2.6147098441152083,3.3691938791392646
+cafce016-6a79-4ce9-948b-caeeae4e0949,Blue 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,5,6.231221180711185,4.132400092125464
+cafce016-6a79-4ce9-948b-caeeae4e0949,Blue 3,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,67,5.5584207132686645,4.152744234570052
+cafce016-6a79-4ce9-948b-caeeae4e0949,Blue 4,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,41,0.16992500144231237,3.4032881201403895
+cafce016-6a79-4ce9-948b-caeeae4e0949,Green 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,90,12,6.28771237954945,4.079713725937726
+cafce016-6a79-4ce9-948b-caeeae4e0949,Green 2,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,42,1.0874628412503393,3.466562667370662
+cafce016-6a79-4ce9-948b-caeeae4e0949,Green 3,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,68,25,5.430452551665532,4.454508118030326
+cafce016-6a79-4ce9-948b-caeeae4e0949,Green 4,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,31,5.290018846932618,3.207433672212154
+cafce016-6a79-4ce9-948b-caeeae4e0949,Red 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,31,4.864186144654281,3.728495003107183
+cafce016-6a79-4ce9-948b-caeeae4e0949,Red 2,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,47,5.049848549450561,3.516033896357667
+cafce016-6a79-4ce9-948b-caeeae4e0949,Red 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,44,2.6147098441152083,3.5157113011573813
+cafce016-6a79-4ce9-948b-caeeae4e0949,Red 4,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,35,25,3.3398500028846247,3.380873320374649
+d65392fb-be1e-45d0-a111-312556d5d97a,Blue 1,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,46,3.820178962415188,3.3691938791392646
+d65392fb-be1e-45d0-a111-312556d5d97a,Blue 2,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,20,5,3.9188632372745946,4.132400092125464
+d65392fb-be1e-45d0-a111-312556d5d97a,Blue 3,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,85,67,4.1799090900149345,4.152744234570052
+d65392fb-be1e-45d0-a111-312556d5d97a,Blue 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,33,41,3.0223678130284544,3.4032881201403895
+d65392fb-be1e-45d0-a111-312556d5d97a,Green 1,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,12,12,0.0,4.079713725937726
+d65392fb-be1e-45d0-a111-312556d5d97a,Green 2,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,42,4.813781191217037,3.466562667370662
+d65392fb-be1e-45d0-a111-312556d5d97a,Green 3,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,37,25,3.599912842187128,4.454508118030326
+d65392fb-be1e-45d0-a111-312556d5d97a,Green 4,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,31,3.189824558880017,3.207433672212154
+d65392fb-be1e-45d0-a111-312556d5d97a,Red 1,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,31,2.6147098441152083,3.728495003107183
+d65392fb-be1e-45d0-a111-312556d5d97a,Red 2,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,47,3.7142455176661224,3.516033896357667
+d65392fb-be1e-45d0-a111-312556d5d97a,Red 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,44,4.7073591320808825,3.5157113011573813
+d65392fb-be1e-45d0-a111-312556d5d97a,Red 4,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,25,4.651051691178929,3.380873320374649
+dc2548bb-f558-450c-b7bb-7040970605c3,Blue 1,8.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,46,2.0443941193584534,3.3691938791392646
+dc2548bb-f558-450c-b7bb-7040970605c3,Blue 2,6.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,80,5,6.231221180711185,4.132400092125464
+dc2548bb-f558-450c-b7bb-7040970605c3,Blue 3,10.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,25,67,5.396604781181859,4.152744234570052
+dc2548bb-f558-450c-b7bb-7040970605c3,Blue 4,2.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,41,4.257387842692652,3.4032881201403895
+dc2548bb-f558-450c-b7bb-7040970605c3,Green 1,11.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,60,12,5.588714635582264,4.079713725937726
+dc2548bb-f558-450c-b7bb-7040970605c3,Green 2,12.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,42,3.599912842187128,3.466562667370662
+dc2548bb-f558-450c-b7bb-7040970605c3,Green 3,9.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,25,5.495855026887171,4.454508118030326
+dc2548bb-f558-450c-b7bb-7040970605c3,Green 4,13.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,31,0.16992500144231237,3.207433672212154
+dc2548bb-f558-450c-b7bb-7040970605c3,Red 1,5.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,70,31,5.290018846932618,3.728495003107183
+dc2548bb-f558-450c-b7bb-7040970605c3,Red 2,4.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,30,47,4.098032082960526,3.516033896357667
+dc2548bb-f558-450c-b7bb-7040970605c3,Red 3,7.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,40,44,2.0443941193584534,3.5157113011573813
+dc2548bb-f558-450c-b7bb-7040970605c3,Red 4,3.0,html-response,completed,100.00,What percentage is the lighter value relative to the darker one?,Answer:,50,25,4.651051691178929,3.380873320374649
