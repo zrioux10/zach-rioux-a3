@@ -25,3 +25,20 @@ Dev branch
 Main branch
 | Run release workflow on merge
 References are updated and commit is tagged
+
+
+Link to the study: https://zrioux10.github.io/zach-rioux-a3/?tab=Others 
+
+Description of our study:
+<img width="706" alt="Screenshot 2025-03-06 at 11 59 24 AM" src="https://github.com/user-attachments/assets/98448734-5802-4891-9210-106c096894f4" />
+
+Our study consisted of 12 questions for participants to answer. The idea of this study was to create dots like in a heatmat where two are marked. The objective is to estimate the percentage the lighter dot is relative to the darker dot. In the screenshot above from our tutorial, we show participants the box they will input their value into and three examples with the correct answers shown. At the end of the study we did ask participants three questions to guage if there was any difficulties with the wording or image actually showing. A few individuals reported difficulties understanding the wording of the study and others wanted to see examples of benchmarks for the percentages. Overall the results were positive.
+
+Design Achievements:
+- Use and modification of reVISit (we thought this would give the best results)
+- Help button brought the participant back to the tutorial
+- Closing study questions for further iterations to improve the study if it was done again
+
+Technical Achievements:
+- Heatmap coloring for questions
+- Color on results graph is mapped to the question it came from
